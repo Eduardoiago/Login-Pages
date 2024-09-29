@@ -1,2 +1,2 @@
 # Login-Pages
-Login and user registration pages
+Login and user registration pages.
